@@ -1,1 +1,1 @@
-# chemlab1e
+# chemlab1e Beer-Lambert plot for Spectroscopy lab
